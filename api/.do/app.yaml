@@ -1,8 +1,0 @@
-name: world-tools-api-dockerfile
-services:
-- dockerfile_path: /WorldToolsApi/Dockerfile
-  github:
-    branch: main
-    deploy_on_push: true
-    repo: https://github.com/Dysn-Software/World-Tools.git
-  name: World-Tools
