@@ -3,6 +3,9 @@
 		{
 			"name": "World Tools Web",
 			"path": "./web"
+		},
+		{
+			"path": "api"
 		}
 	],
 	"settings": {}
